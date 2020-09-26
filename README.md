@@ -1,5 +1,5 @@
 # shellshock
-Python3 Shellshock exploit script made for OSCP and HTB. Created this because I could not figure out how to make the nmap HTTP-shellshock.nse script do what I wanted.
+Python3 Shellshock exploit script made for OSCP and HTB. Essentially just sends a POST request to a specified uri. Created this because I could not figure out how to make the nmap HTTP-shellshock.nse script do what I wanted, and also could not remember the formatting.
 
 ## Notes
 1. Run the script with python3
